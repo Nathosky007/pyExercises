@@ -1,0 +1,60 @@
+  350  whereis git
+  351  man git
+  357  git clone https://github.com/django/django.git
+  365  man git-commandname
+  366  git init
+  368  cd .git
+  371  git status -s
+  374  git status -s
+  375  git add hi.txt
+  381  git add /w/d/i/digerati00/hi.txt
+  386  git add /w/d/i/digerati00/hi.txt
+  388  git add hi.txt
+  390  git status -s
+  391  cd .git
+  409  git status
+  412  git status
+  413  cd .git/branches
+  417  git add hi.txt
+  419  git status
+  420  git diff
+  425  cd .git
+  427  git status -s
+  430  git status -s
+  431  git commit
+  434  git commit
+  435  git status
+  436  git config --global user.name "Nath"
+  437  git config --global user.email "digerati00@grex.org"
+  438  git commit
+  440  git add hi1.txt
+  441  git status
+  442  cd .git
+  489  git status
+  490  type git
+  492  type git
+  495  git status
+  496  git diff
+  498  git diff
+  502  git status
+  504  git status
+  552  cd .git
+  553  git add
+  554  git init
+  555  git add pyPgms/*
+  557  git status
+  562  file .gitconfig
+  563  wc -l .gitconfig
+  564  cat .gitconfig
+  565  git --config global user.email="manahelsainath@gmail.com"
+  566  git --version
+  642  git status
+  643  git commit -m "First Commit"
+  644  git status
+  650  git status
+  651  git remote add origin https://github.com/Nathosky007/PythonExample.git
+  652  cat .gitconfig
+  653  git push -u origin master
+  654  git status
+  655  git fetch origin
+  656  history | grep git > ./git_commands.txt
